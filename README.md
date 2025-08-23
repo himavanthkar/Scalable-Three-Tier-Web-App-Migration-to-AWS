@@ -1,4 +1,4 @@
-# Quiz Application - AWS Deployment (HW3)
+# Scalable Three-Tier Web App Migration to AWS
 
 ## Project Overview
 A full-stack quiz application deployed on AWS using Docker containers, ECR, and ECS with automated CI/CD through CircleCI.
